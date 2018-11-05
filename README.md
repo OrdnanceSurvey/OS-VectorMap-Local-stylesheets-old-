@@ -1,2 +1,3 @@
-# OS-VectorMap-Local-stylesheets-old-
-Repository containing the stylesheets for the old version of OS Vector Map Local (pre Oct18)
+This repository contains stylesheets for OS VectorMap Local
+
+Select the directory that matches the format of your data
